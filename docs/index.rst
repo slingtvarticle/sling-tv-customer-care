@@ -6,7 +6,7 @@ How Do I Reach Sling TV Customer Care for Help?
    :caption: Contents:
 Need help with Sling TV? Here’s how to contact Sling TV customer care, what support options are available, and how to solve common issues quickly.
  
-.. image:: https://sling-tv-packages.readthedocs.io/en/latest/_images/help.jpg
+.. image:: help.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
